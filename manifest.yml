@@ -1,0 +1,4 @@
+---
+applications:
+- name: stock-ticker-nasdaq
+  memory: 512MB

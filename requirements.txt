@@ -1,0 +1,16 @@
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+decorator
+flask
+gunicorn
+numpy
+pandas
+pandas-datareader
+pendulum
+plotly
+requests
+requests-file
+requests-ftp
+urllib3
